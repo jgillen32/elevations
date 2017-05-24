@@ -1,0 +1,17 @@
+{
+    "name": "elevations",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "hapi": "^9.3.1",
+        "inert": "^3.0.1",
+        "vision": "^3.0.0",
+        "handlebars": "^4.0.10"
+    },
+    "scripts": {
+        "start": "node app.js"
+    },
+    "devDependencies": {
+        "nodemon": "^1.11.0"
+    }
+}
